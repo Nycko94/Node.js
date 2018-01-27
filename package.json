@@ -1,0 +1,19 @@
+{
+  "name": "aprendiendo-npm",
+  "version": "1.0.0",
+  "description": "En este paquete se aprendera a trabajr con NPM",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nycko94/Node.js.git"
+  },
+  "author": "Diego Nycko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nycko94/Node.js/issues"
+  },
+  "homepage": "https://github.com/Nycko94/Node.js#readme"
+}
